@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "一笑江湖 (DJ弹鼓版)",
+  "base_artist": "闻人听書_",
+  "createdAt": "2025-12-14T06:06:38.725994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一笑江湖 (DJ弹鼓版)",
+      "artist": "闻人听書_",
+      "has_synced": true,
+      "path": "select/01_一笑江湖_(DJ弹鼓版)_闻人听書.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一笑江湖 (Dj弹鼓版)",
+      "artist": "闻人听书_",
+      "has_synced": true,
+      "path": "select/02_一笑江湖_(Dj弹鼓版)_闻人听书.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一笑江湖 - DJ弹鼓版 (Paused)",
+      "artist": "闻人听書_",
+      "has_synced": true,
+      "path": "select/03_一笑江湖_-_DJ弹鼓版_(Paused)_闻人听書.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一笑江湖 - DJ弹鼓版",
+      "artist": "闻人听書_",
+      "has_synced": false,
+      "path": "select/pl_01_一笑江湖_-_DJ弹鼓版_闻人听書.txt"
+    }
+  ]
+}
